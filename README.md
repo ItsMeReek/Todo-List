@@ -1,0 +1,1 @@
+This project involves developing a comprehensive task management system that organizes and tracks all your tasks efficiently. The system features task creation, prioritization, and progress tracking to enhance productivity and ensure timely completion of tasks.
